@@ -1,0 +1,19 @@
+# The path to starting a local engagement programme: a decision tree
+
+The following figure provides an example of the decisions and circumstances that stand before a university starting a programme of local engagement work. It is necessarily generalised and individual universities may skip all or part of the tree, or begin the process from a different starting point – that is, somewhere other than at the very top. In addition, whilst following the 'no' boxes in particular may result in questions that do not appear to logically connect, they aim to capture the main circumstances in which engagement work could begin by addressing each of the major incentives and barriers in turn.
+
+University local engagement is defined here as projects and programmes at a sub-national level (for example within a city region) in areas other than student teaching and learning activities. These may include research, innovation and community-focused projects, and social, cultural, environmental and economic programmes of work.
+
+There are three key points. First, unless an institution can secure dedicated funding up front, the path to beginning a programme of work is lengthy and complex, with numerous hurdles. Second, paths through the tree may differ for a large university in Africa compared to a similarly-sized counterpart in, for example, the UK. The former will typically have to go through many more steps as dedicated funding for local engagement activity can be lacking; in the UK such funding is relatively plentiful – universities have accessed decades worth of European Structural and Investment Funding, UK government infrastructure and local growth funds in various guises, and small but flexible pots of money such as the Higher Education Innovation Fund.[^1] The availability of skilled staff to administer and deliver local engagement programmes could be seen as a further differentiating factor, but this is likely a function of having had consistent funding for this purpose in the past. Third, an effective and sustainable programme requires institutional support, staff or student willingness, and resources. Dropping any one of these three pillars hinders local engagement.
+
+This path to starting a local engagement programme is partly based on my own experience working in UK higher education, and partly on my reading of African flagship universities, where I have adapted the processes and complexities around securing research funding to the local context (Kaweesi, Bisaso, and Ezati 2019; Ssembatya 2020). I have also received valuable input from colleagues in Rwanda and the UK.
+
+# Bibliography
+
+Giordano, Benito. 2020. &quot;Post-Brexit Regional Economic Development Policy in the UK? Some Enduring Lessons from European Union Cohesion Policy.&quot; _European Urban and Regional Studies_, November, 0969776420970624. [https://doi.org/10.1177/0969776420970624](https://doi.org/10.1177/0969776420970624).
+
+Kaweesi, Muhamadi, Ronald Bisaso, and Betty Akullu Ezati. 2019. &quot;The Nature of and Motive for Academic Research in Higher Education: A Sub-Saharan African Perspective.&quot; _International Journal of African Higher Education_ 6 (1, 1): 1–25. [https://doi.org/10.6017/ijahe.v6i1.10577](https://doi.org/10.6017/ijahe.v6i1.10577).
+
+Ssembatya, Vincent A. 2020. &quot;Sustaining Research Excellence and Productivity with Funding from Development Partners: The Case of Makerere University.&quot; In _Transforming Research Excellence: New Ideas from the Global South_. Cape Town: African Minds. [https://doi.org/10.5281/zenodo.3603928](https://doi.org/10.5281/zenodo.3603928).
+
+[^1]: Even if the processes for accessing, for example, European Structural and Investment Funds has been cumbersome, complex and somewhat trying for the staff involved (Giordano 2020, 6).
